@@ -13,7 +13,14 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#F5D1D1",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+    },
+    {
+      "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
