@@ -35,6 +35,23 @@
       "userPermissions": []
     },
     {
+      "name": "__exportStar",
+      "uidString": "__createBinding___exportStar_https://cdn.jsdelivr.net/npm/tsparticles-engine@2.6.0/umd/bundle.js",
+      "accessor": [
+        "__createBinding",
+        "__exportStar"
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/tsparticles-engine@2.6.0/umd/bundle.js",
+      "version": "2.6.0",
+      "defs": "{\"!name\":\"LIB/__exportStar\",\"__createBinding\":{\"!type\":\"fn()\",\"prototype\":{}},\"__exportStar\":{\"!type\":\"fn()\",\"prototype\":{}}}",
+      "id": "6399a39613da8569b55c2984",
+      "createdAt": "2022-12-14T10:21:10Z",
+      "updatedAt": "2022-12-14T10:21:10Z",
+      "deleted": false,
+      "policies": [],
+      "userPermissions": []
+    },
+    {
       "name": "i18next",
       "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js",
       "accessor": [

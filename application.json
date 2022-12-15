@@ -19,6 +19,9 @@
     },
     {
       "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
+    },
+    {
+      "uidString": "__createBinding___exportStar_https://cdn.jsdelivr.net/npm/tsparticles-engine@2.6.0/umd/bundle.js"
     }
   ],
   "publishedCustomJSLibs": [
