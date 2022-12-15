@@ -19,6 +19,9 @@
     },
     {
       "uidString": "mixpanel_onload_https://cdn.jsdelivr.net/npm/mixpanel-browser@2.45.0/dist/mixpanel.umd.js"
+    },
+    {
+      "uidString": "__createBinding___exportStar_https://cdn.jsdelivr.net/npm/tsparticles@2.6.0/umd/bundle.js"
     }
   ],
   "publishedCustomJSLibs": [
