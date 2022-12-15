@@ -56,6 +56,23 @@
       "userPermissions": []
     },
     {
+      "name": "__exportStar",
+      "uidString": "__createBinding___exportStar_https://cdn.jsdelivr.net/npm/tsparticles@2.6.0/umd/bundle.js",
+      "accessor": [
+        "__createBinding",
+        "__exportStar"
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/tsparticles@2.6.0/umd/bundle.js",
+      "version": "2.6.0",
+      "defs": "{\"!name\":\"LIB/__exportStar\",\"__createBinding\":{\"!type\":\"fn()\",\"prototype\":{}},\"__exportStar\":{\"!type\":\"fn()\",\"prototype\":{}}}",
+      "id": "63998dca13da8569b55c297d",
+      "createdAt": "2022-12-14T08:48:10Z",
+      "updatedAt": "2022-12-14T08:48:10Z",
+      "deleted": false,
+      "policies": [],
+      "userPermissions": []
+    },
+    {
       "name": "mixpanel-browser",
       "uidString": "mixpanel_onload_https://cdn.jsdelivr.net/npm/mixpanel-browser@2.45.0/dist/mixpanel.umd.js",
       "accessor": [
