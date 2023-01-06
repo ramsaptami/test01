@@ -1,0 +1,15 @@
+{
+  "name": "@segment/analytics-next",
+  "uidString": "AnalyticsNext___SEGMENT_INSPECTOR___webpackChunk_segment_analytics_next_https://cdn.jsdelivr.net/npm/@segment/analytics-next@1.46.1/dist/umd/index.js",
+  "accessor": [
+    "AnalyticsNext",
+    "__SEGMENT_INSPECTOR__",
+    "webpackChunk_segment_analytics_next"
+  ],
+  "url": "https://cdn.jsdelivr.net/npm/@segment/analytics-next@1.46.1/dist/umd/index.js",
+  "version": "1.46.1",
+  "defs": "{\"!name\":\"LIB/AnalyticsNext\",\"webpackChunk_segment_analytics_next\":{\"push\":{\"!type\":\"fn()\"},\"at\":{\"!type\":\"fn()\"},\"concat\":{\"!type\":\"fn()\"},\"copyWithin\":{\"!type\":\"fn()\"},\"fill\":{\"!type\":\"fn()\"},\"find\":{\"!type\":\"fn()\"},\"findIndex\":{\"!type\":\"fn()\"},\"lastIndexOf\":{\"!type\":\"fn()\"},\"pop\":{\"!type\":\"fn()\"},\"reverse\":{\"!type\":\"fn()\"},\"shift\":{\"!type\":\"fn()\"},\"unshift\":{\"!type\":\"fn()\"},\"slice\":{\"!type\":\"fn()\"},\"sort\":{\"!type\":\"fn()\"},\"splice\":{\"!type\":\"fn()\"},\"includes\":{\"!type\":\"fn()\"},\"indexOf\":{\"!type\":\"fn()\"},\"join\":{\"!type\":\"fn()\"},\"keys\":{\"!type\":\"fn()\"},\"entries\":{\"!type\":\"fn()\"},\"values\":{\"!type\":\"fn()\"},\"forEach\":{\"!type\":\"fn()\"},\"filter\":{\"!type\":\"fn()\"},\"flat\":{\"!type\":\"fn()\"},\"flatMap\":{\"!type\":\"fn()\"},\"map\":{\"!type\":\"fn()\"},\"every\":{\"!type\":\"fn()\"},\"some\":{\"!type\":\"fn()\"},\"reduce\":{\"!type\":\"fn()\"},\"reduceRight\":{\"!type\":\"fn()\"},\"toLocaleString\":{\"!type\":\"fn()\"},\"toString\":{\"!type\":\"fn()\"},\"findLast\":{\"!type\":\"fn()\"},\"findLastIndex\":{\"!type\":\"fn()\"}},\"__SEGMENT_INSPECTOR__\":{},\"AnalyticsNext\":{\"__esModule\":{\"!type\":\"bool\"},\"AnalyticsBrowser\":{\"!type\":\"fn()\",\"prototype\":{\"load\":{\"!type\":\"fn()\",\"prototype\":{}},\"then\":{\"!type\":\"fn()\",\"prototype\":{}},\"catch\":{\"!type\":\"fn()\",\"prototype\":{}},\"finally\":{\"!type\":\"fn()\",\"prototype\":{}},\"_createMethod\":{\"!type\":\"fn()\",\"prototype\":{}},\"_createChainableMethod\":{\"!type\":\"fn()\",\"prototype\":{}}},\"load\":{\"!type\":\"fn()\",\"prototype\":{}},\"standalone\":{\"!type\":\"fn()\",\"prototype\":{}}},\"loadLegacySettings\":{\"!type\":\"fn()\",\"prototype\":{}}}}",
+  "deleted": false,
+  "policies": [],
+  "userPermissions": []
+}
